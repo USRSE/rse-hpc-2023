@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call for Papers
+title: Call for Abstracts
 permalink: /call/
 ---
 
