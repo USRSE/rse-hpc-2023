@@ -6,7 +6,7 @@ permalink: /agenda/
 
 *All times are Mountain Standard Time (UTC-7).*
 
-Sunday, November 11, 2023
+Sunday, November 12, 2023
 
 - 9:00 am - Session 1
     - 5 min:  Welcome and Overview
