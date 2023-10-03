@@ -8,20 +8,32 @@ permalink: /agenda/
 
 Sunday, November 11, 2023
 
-Agenda (tentative):
-- 8:30 am - Session 1
+- 9:00 am - Session 1
     - 5 min:  Welcome and Overview
     - 25 min:  Featured Talk
-    - 20 min:  Lightning Talks 1
-    - 40 min:  Breakout Session 1
+        - _UNIVERSE-HPC - Toward a Sustainable RSE Training Ecosystem_,
+    Weronika Filinger, Neil Chue Hong (Edinburgh Parallel Computing Centre)
+    - 30 min:  Lightning Talks 1
+        - _Elevating the Undergraduate Internship: Five Strategies for Putting the "R" in RSE_,
+        Nicole Brewer (Arizona State University)
+        - _International RSE Collaboration with the Institute of Computing for Climate Science and the Virtual Earth System Research Institute_,
+        Christopher Edsall, Paul Richmond, Marion Weinzerl (University of Cambridge)
+        - _Years as a Trustee of SocRSE UK: A Retrospective_,
+        Jamie Quinn (University College London)
+        - _Life as an RSE at the University of Birmingham, UK_,
+        Jenny Wong (University of Birmingham)
 - 10:00 am - Break
 - 10:30 am - Session 2
+    - 40 min:  Panel: RSE Training and Mentoring
     - 20 min:  Lightning Talks 2
-    - 40 min:  Breakout Session 2
-    - 25 min:  Report Back from breakouts
+        - _Starting at the Bottom, Now We're Here: Building an African RSE Community_,
+        Eugene de Beste (ACE Lab, CHPC), Anelda van der Walt (Talarify), Peter van Heusden (South African National Bioinformatics Institute)
+        - _Catalyzing Research Software Engineering (RSE) Adoption in Underrepresented Regions: Harnessing the Power of Bioinformatics Communities_,
+        Pauline Karega (University of Manchester)
+    - 40 min:  Breakout Sessions
+    - 15 min:  Report Back from Breakouts
     - 5 min:  Wrapup
-
-
+- 12:30 pm - End
 
 
 [Link to workshop on SC23 website](https://sc23.supercomputing.org/presentation/?id=wksp142&sess=sess134)
