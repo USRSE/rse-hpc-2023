@@ -24,8 +24,8 @@ Sunday, November 12, 2023
         Jenny Wong (University of Birmingham)
 - 10:00 am - Break
 - 10:30 am - Session 2
-    - 40 min:  Panel: RSE Training and Mentoring
-    - 20 min:  Lightning Talks 2
+    - 45 min:  Panel: RSE Training and Mentoring
+    - 15 min:  Lightning Talks 2
         - _Starting at the Bottom, Now We're Here: Building an African RSE Community_,
         Eugene de Beste (ACE Lab, CHPC), Anelda van der Walt (Talarify), Peter van Heusden (South African National Bioinformatics Institute)
         - _Catalyzing Research Software Engineering (RSE) Adoption in Underrepresented Regions: Harnessing the Power of Bioinformatics Communities_,
