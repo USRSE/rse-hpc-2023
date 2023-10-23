@@ -12,7 +12,7 @@ Sunday, November 12, 2023
     - 5 min:  Welcome and Overview
     - 25 min:  Featured Talk
         - _UNIVERSE-HPC - Toward a Sustainable RSE Training Ecosystem_,
-    Weronika Filinger, Neil Chue Hong (Edinburgh Parallel Computing Centre)
+    Weronika Filinger (Edinburgh Parallel Computing Centre)
     - 30 min:  Lightning Talks 1
         - _Elevating the Undergraduate Internship: Five Strategies for Putting the "R" in RSE_,
         Nicole Brewer (Arizona State University)
