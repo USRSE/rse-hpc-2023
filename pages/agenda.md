@@ -25,6 +25,10 @@ Sunday, November 12, 2023
 - 10:00 am - Break
 - 10:30 am - Session 2
     - 45 min:  Panel: RSE Training and Mentoring
+        - Francesca Schiavello (Hartree Centre, Science and Technology Facilities Council)
+        - Helen Kershaw (National Center for Atmospheric Research)
+        - Samantha Wittke (CSC - IT Center for Science Ltd, Finland)
+        - Ian Cosden (Princeton University)
     - 15 min:  Lightning Talks 2
         - _Starting at the Bottom, Now We're Here: Building an African RSE Community_,
         Eugene de Beste (ACE Lab, CHPC), Anelda van der Walt (Talarify), Peter van Heusden (South African National Bioinformatics Institute)
