@@ -17,7 +17,7 @@ Sunday, November 12, 2023
         - _Elevating the Undergraduate Internship: Five Strategies for Putting the "R" in RSE_,
         Nicole Brewer (Arizona State University)
         - _International RSE Collaboration with the Institute of Computing for Climate Science and the Virtual Earth System Research Institute_,
-        Christopher Edsall, Paul Richmond, Marion Weinzerl (University of Cambridge)
+        Arjen Tamerus, Christopher Edsall, Paul Richmond, Marion Weinzerl (University of Cambridge)
         - _Years as a Trustee of SocRSE UK: A Retrospective_,
         Jamie Quinn (University College London)
         - _Life as an RSE at the University of Birmingham, UK_,
