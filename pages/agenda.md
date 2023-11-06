@@ -6,6 +6,9 @@ permalink: /agenda/
 
 *All times are Mountain Standard Time (UTC-7).*
 
+*In-person: <a href="https://sc23.conference-program.com/map/?location=r507">Room 507 of the Colorado Convention Center</a>.*
+
+
 Sunday, November 12, 2023
 
 - 9:00 am - Session 1
