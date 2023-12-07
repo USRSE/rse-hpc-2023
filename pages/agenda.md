@@ -27,7 +27,7 @@ Sunday, November 12, 2023
         Jenny Wong (University of Birmingham)
 - 10:00 am - Break
 - 10:30 am - Session 2
-    - 45 min:  [Panel: RSE Training and Mentoring](qqq)
+    - 45 min:  Panel: RSE Training and Mentoring
         - [Francesca Schiavello](https://docs.google.com/presentation/d/1aaa7mAJC9coaGZdOlkigVPFP00-SiUul/) (Hartree Centre, Science and Technology Facilities Council)
         - [Helen Kershaw](https://docs.google.com/presentation/d/1aNgENqN-GY3zfJRnRKx9RDUfdgrDOCBW/) (National Center for Atmospheric Research)
         - [Samantha Wittke](https://docs.google.com/presentation/d/1PxPyhg2MT_s1VgAZMigmbwB9N6inWOWw/) (CSC - IT Center for Science Ltd, Finland)
