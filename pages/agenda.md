@@ -43,4 +43,4 @@ Sunday, November 12, 2023
 - 12:30 pm - End
 
 
-[Link to workshop on SC23 website](https://sc23.supercomputing.org/presentation/?id=wksp142&sess=sess134)
+[Link to workshop on SC23 website](https://sc23.conference-program.com/session/?sess=sess418)
